@@ -1,0 +1,10 @@
+name: "plugin_name"
+version: "1.0"
+authors:
+  - "xxAROX"
+website: "https://github.com/HQGames/plugin_name"
+description: "plugin_name for HQGames by xxAROX."
+
+api:
+  - "4.0.0"
+main: HQGames\plugin_name\plugin_name
